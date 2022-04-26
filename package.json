@@ -1,9 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Alienor",
+	"author": "Alienor Doremieux",
 	"description": "Project for FCC managing packages with NPM",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.14.0"
 	},
 	"keywords": ["freecodecamp", "project", "NPM"],
 	"license": "MIT",
